@@ -986,6 +986,21 @@
     "support_documentation": "https://cloud.google.com/text-to-speech/docs/getting-support"
   },
   {
+    "client_documentation": "https://googleapis.dev/nodejs/transcoder/latest",
+    "product_documentation": "https://googleapis.dev/nodejs/transcoder/latest",
+    "name": "transcoder",
+    "requires_billing": true,
+    "release_level": "ga",
+    "language": "nodejs",
+    "api_id": "transcoder.googleapis.com",
+    "distribution_name": "@google-cloud/video-transcoder",
+    "repo": "googleapis/nodejs-video-transcoder",
+    "issue_tracker": "https://github.com/googleapis/nodejs-video-transcoder/issues",
+    "name_pretty": "Transcoder API",
+    "default_version": "v1beta1",
+    "support_documentation": "https://googleapis.dev/nodejs/transcoder/latest"
+  },
+  {
     "distribution_name": "@google-cloud/translate",
     "release_level": "ga",
     "product_documentation": "https://cloud.google.com/translate/docs/",
@@ -1584,21 +1599,6 @@
     "default_version": "v1",
     "requires_billing": true,
     "support_documentation": "https://cloud.google.com/tpu/docs/getting-support"
-  },
-  {
-    "client_documentation": "https://googleapis.dev/nodejs/transcoder/latest",
-    "product_documentation": "https://googleapis.dev/nodejs/transcoder/latest",
-    "name": "transcoder",
-    "requires_billing": true,
-    "release_level": "beta",
-    "language": "nodejs",
-    "api_id": "transcoder.googleapis.com",
-    "distribution_name": "@google-cloud/video-transcoder",
-    "repo": "googleapis/nodejs-video-transcoder",
-    "issue_tracker": "https://github.com/googleapis/nodejs-video-transcoder/issues",
-    "name_pretty": "Transcoder API",
-    "default_version": "v1beta1",
-    "support_documentation": "https://googleapis.dev/nodejs/transcoder/latest"
   },
   {
     "language": "nodejs",

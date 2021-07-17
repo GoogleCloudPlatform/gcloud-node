@@ -74,6 +74,7 @@ applications that interact with individual Google Cloud services:
 | [Talent Solution](https://github.com/googleapis/nodejs-talent) | [![GA][ga-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/talent)](https://npm.im/@google-cloud/talent) |
 | [Tasks](https://github.com/googleapis/nodejs-tasks) | [![GA][ga-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/tasks)](https://npm.im/@google-cloud/tasks) |
 | [Text-to-Speech](https://github.com/googleapis/nodejs-text-to-speech) | [![GA][ga-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/text-to-speech)](https://npm.im/@google-cloud/text-to-speech) |
+| [Transcoder API](https://github.com/googleapis/nodejs-video-transcoder) | [![GA][ga-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/video-transcoder)](https://npm.im/@google-cloud/video-transcoder) |
 | [Translation](https://github.com/googleapis/nodejs-translate) | [![GA][ga-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/translate)](https://npm.im/@google-cloud/translate) |
 | [Video Intelligence](https://github.com/googleapis/nodejs-video-intelligence) | [![GA][ga-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/video-intelligence)](https://npm.im/@google-cloud/video-intelligence) |
 | [Vision API](https://github.com/googleapis/nodejs-vision) | [![GA][ga-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/vision)](https://npm.im/@google-cloud/vision) |
@@ -114,7 +115,6 @@ applications that interact with individual Google Cloud services:
 | [Stackdriver Debugger](https://github.com/googleapis/cloud-debug-nodejs) | [![Preview][preview-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/debug-agent)](https://npm.im/@google-cloud/debug-agent) |
 | [Stackdriver Trace](https://github.com/googleapis/cloud-trace-nodejs) | [![Preview][preview-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/trace-agent)](https://npm.im/@google-cloud/trace-agent) |
 | [TPU](https://github.com/googleapis/nodejs-cloud-tpu) | [![Preview][preview-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/tpu)](https://npm.im/@google-cloud/tpu) |
-| [Transcoder API](https://github.com/googleapis/nodejs-video-transcoder) | [![Preview][preview-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/video-transcoder)](https://npm.im/@google-cloud/video-transcoder) |
 | [Vertex AI](https://github.com/googleapis/nodejs-ai-platform) | [![Preview][preview-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/aiplatform)](https://npm.im/@google-cloud/aiplatform) |
 | [Virtual Private Cloud](https://github.com/googleapis/nodejs-vpc-access) | [![Preview][preview-stability]][launch-stages] | [![npm](https://img.shields.io/npm/v/@google-cloud/vpc-access)](https://npm.im/@google-cloud/vpc-access) |
 
